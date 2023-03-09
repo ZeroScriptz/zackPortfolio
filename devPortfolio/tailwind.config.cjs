@@ -10,7 +10,8 @@ module.exports = {
     },
     extend: {
       screens: {
-        md: "990px",
+        desktop: '940px',
+        mobile: "375px",
       },
       keyframes: {
         "slide-in": {

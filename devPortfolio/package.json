@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
+    "react-router-dom": "^6.8.2",
     "vite-plugin-live-reload": "^3.0.1"
   },
   "devDependencies": {

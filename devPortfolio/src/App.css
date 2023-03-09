@@ -1,12 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+.baloo {
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+
+
 body {
     background-color: #212E4D;
+    font-family: 'Lalezar', cursive;
 }
 
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-  }
+    .mobileDiv {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .AiMobile {
+        display: hidden;
+    }
+
+}
