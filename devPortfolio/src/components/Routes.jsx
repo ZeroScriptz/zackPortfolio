@@ -1,7 +1,8 @@
 import React from "react";
 import { BrowserRouter, Route, Switch as RouterSwitch } from 'react-router-dom';
-import Home from "../components/homePage";
+import Home from "../components/home";
 import Projects from "../components/projects";
+import Contact from "../components/contact";
 
 const MainRoutes = () => {
   return (

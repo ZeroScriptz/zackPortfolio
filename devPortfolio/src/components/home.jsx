@@ -68,15 +68,15 @@ export default function home() {
       </p>
       </div>
       <div className='desktop:-my-[47rem] mobile:-my-[9rem] mobile:text-3xl'>
-            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[48rem] desktop:mx-[38rem] '>22</h1>
-            <h2 className='text-white desktop:text-xl text-center  desktop:-my-[48rem] desktop:mx-[38.25rem]'>Years old</h2>
-            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[41rem] desktop:mx-[46rem] '>6+</h1>
-            <h2 className='text-white desktop:text-xl text-center  desktop:-my-[41rem] desktop:mx-[46.25rem]'>Years Coding</h2>
-            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[34rem] desktop:mx-[54rem] '>2</h1>
+            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[48rem] desktop:mx-[38rem] hover:scale-105 hover:rotate-3 transition ease-in-out cursor-pointer'>22</h1>
+            <h2 className='text-white desktop:text-xl text-center  desktop:-my-[48rem] desktop:mx-[38.25rem] '>Years old</h2>
+            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[41rem] desktop:mx-[46rem] hover:scale-105 transition ease-in-out hover:-rotate-3 cursor-pointer'>6+</h1>
+            <h2 className='text-white desktop:text-xl text-center  desktop:-my-[41rem] desktop:mx-[46.25rem] '>Years Coding</h2>
+            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[34rem] desktop:mx-[54rem]  hover:scale-105 hover:rotate-3 transition ease-in-out cursor-pointer'>2</h1>
             <h2 className='text-white desktop:text-xl text-center  desktop:-my-[34rem] desktop:mx-[54rem]'>Amazing Kids</h2>
-            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[26.5rem] desktop:mx-[62rem] '>1k+</h1>
+            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[26.5rem] desktop:mx-[62rem] hover:scale-105 hover:-rotate-3 transition ease-in-out cursor-pointer'>1k+</h1>
             <h2 className='text-white desktop:text-xl text-center  desktop:-my-[26rem] desktop:mx-[62.25rem]'>Commits</h2>
-            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[20rem] desktop:mx-[70rem] '>35k+</h1>
+            <h1 className='desktop:text-6xl  text-purple-500  desktop:my-[20rem] desktop:mx-[70rem] hover:scale-105 hover:rotate-3 transition ease-in-out cursor-pointer'>35k+</h1>
             <h2 className='text-white desktop:text-xl text-center  desktop:-my-[19.5rem] desktop:mx-[71.25rem]'>Youtube Views</h2>
       </div>
     </div>

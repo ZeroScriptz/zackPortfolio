@@ -4,7 +4,7 @@ function ProjectCard(props) {
   const { name, image, links } = props;
   return (
     <div className="project-card">
-      <img src={image} alt={name} />
+      <img className="hover:scale-105 transition duration-500 ease-in-out" src={image} alt={name} />
       <div className="project-details">
         <h3 className="text-white text-3xl">{name}</h3>
         <div className="project-links  ">

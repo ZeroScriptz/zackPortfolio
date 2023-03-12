@@ -8,7 +8,16 @@
     font-family: 'Baloo Paaji 2', cursive;
 }
 
+input {
+    background-color: #212E4D;
 
+     border: 1px solid #2d9fd9;
+}
+
+textarea {
+    background-color: #212E4D;
+    border: 1px solid #2d9fd9;
+}
 
 body {
     background-color: #212E4D;

@@ -6,6 +6,7 @@ import {
 import CustomNavbar from './components/navBar';
 import Home from './components/home';
 import Projects from './components/projects';
+import Contact from "./components/contact";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route exact path="" element={<Home />}  />
         <Route path="/projects" element={<Projects/>} />
+        <Route path="/contact" element={<Contact/>} />
       </Routes>
     </Router>
   );
